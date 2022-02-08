@@ -8,12 +8,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Documentation Tutorial',
   tagline: 'This is a documentation example',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://blakemoran14.github.com/documentationtest/',
+  baseUrl: '/documentationtest/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   organizationName: 'blakemoran14', // Usually your GitHub org/user name.
   projectName: 'documentation', // Usually your repo name.
+  deploymentBranch: 'gh-pages', //This is to upload to Github Pages
 
   presets: [
     [
