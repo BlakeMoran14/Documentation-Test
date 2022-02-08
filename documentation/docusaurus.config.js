@@ -13,7 +13,7 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   organizationName: 'blakemoran14', // Usually your GitHub org/user name.
-  projectName: 'documentation', // Usually your repo name.
+  projectName: 'documentation-test', // Usually your repo name.
   deploymentBranch: 'gh-pages', //This is to upload to Github Pages.
   trailingSlash: false, //Fixing the Github Pages version.
 
