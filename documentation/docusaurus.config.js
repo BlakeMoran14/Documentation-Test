@@ -1,4 +1,4 @@
-// @ts-check
+// @ts-nocheck
 // Note: type annotations allow type checking and IDEs autocompletion
 
 const lightCodeTheme = require('prism-react-renderer/themes/github');
@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Documentation Tutorial',
   tagline: 'This is a documentation example',
-  url: 'https://blakemoran14.github.com/documentationtest/',
-  baseUrl: '/documentationtest/',
+  url: 'https://blakemoran14.github.io/Documentation-Test/',
+  baseUrl: '/Documentation-Test/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   organizationName: 'blakemoran14', // Usually your GitHub org/user name.
